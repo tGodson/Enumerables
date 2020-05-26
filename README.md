@@ -26,10 +26,6 @@ This project is mainly about
 ruby enumerables.rb
 ```
 
-<!-- ## Live Demo
-
-[![Run on Repl.it](https://repl.it/badge/github/Bluette1/bubble_sort)](https://repl.it/github/Bluette1/bubble_sort) -->
-
 ## Authors
 
 **Tendongze Godson**
