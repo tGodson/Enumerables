@@ -16,6 +16,7 @@ This project is mainly about
 
 -  Learning ruby syntax
 -  Using blocks, procs, and the `yield` command in ruby
+-  Learning how to write enumerable methods
 
 ## Development
 
