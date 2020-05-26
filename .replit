@@ -1,0 +1,3 @@
+language = "ruby"
+run = "ruby bubble_sort.rb"
+
