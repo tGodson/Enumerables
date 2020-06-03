@@ -6,6 +6,7 @@ module Enumerable
         i += 1
     end
   end
+
   def my_each_with_index
     i = 0
     while i < self.size
@@ -66,6 +67,7 @@ module Enumerable
     }
     count
   end
+  
   def my_map(proc = nil, &block)
     new_array = []
     counter = 0
@@ -95,6 +97,7 @@ module Enumerable
     end
     memo
   end
+  
   def multiply_els(arr)
       arr.my_inject {|x,y| x*y}
   end
